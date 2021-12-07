@@ -1,6 +1,6 @@
-# hacker_news_flutter
+# Hacker News
 
-A new Flutter project.
+A Flutter clone project using the MVC+S Architecture.
 
 ## Getting Started
 
